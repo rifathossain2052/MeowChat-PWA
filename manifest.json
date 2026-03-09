@@ -1,0 +1,17 @@
+{
+  "name": "Meow Chat 🐾",
+  "short_name": "MeowChat",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffe4e1",
+  "theme_color": "#ffb6c1",
+  "description": "A cute private chat app",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1864/1864509.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
